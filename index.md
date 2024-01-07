@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Elite-Redux/eliteredux/blob/master/wiki/logo.png">
+  <img src="https://raw.githubusercontent.com/Elite-Redux/EliteReduxWiki/main/images/logo.png">
 </p>
 
 
@@ -23,7 +23,7 @@ Since this hack is based on Inclement Emerald / Yda patch (with permission from 
 
 + **110+ New Custom Abilities:** Featuring a total of over 370 abilities with around 50 changed/extended abilities, you will have lots of options to defeat the many challenges awaiting you. Also, all ability descriptions have been rewritten for more accuracy!
 <p align="left">
-  <img height=300 width=450 src="https://github.com/Elite-Redux/eliteredux/blob/master/wiki/ability-showcase.gif">
+  <img height=300 width=450 src="https://raw.githubusercontent.com/Elite-Redux/EliteReduxWiki/main/images/ability-showcase.gif">
 </p>
 
 + **Reworked & Stronger AI:** We revamped the AI to include all new/changed abilities & moves. Also, every Trainer now uses the smartest AI.
@@ -41,6 +41,6 @@ Since this hack is based on Inclement Emerald / Yda patch (with permission from 
 
 + **Reworked Pokémon, Abilities, Moves & Items:** Every single Pokémon has been given love individually, e.g. Gyarados is now Water/Dragon with Levitate and Gengar can be used physically or specially. We reworked many moves to be less frustrating or more fun to use. For example, Aurora Beam now always lowers the foe’s Attack by one stage. The type chart hasn’t been touched. Some items like Big Root and Shell Bell have been buffed.
 <p align="left">
-  <img height=300 width=450 src="https://github.com/Elite-Redux/eliteredux/blob/master/wiki/reworked-mons-showcase.gif">
+  <img height=300 width=450 src="https://raw.githubusercontent.com/Elite-Redux/EliteReduxWiki/main/images/reworked-mons-showcase.gif">
 </p>
 
