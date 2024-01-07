@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elite Redux Wiki</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #1a1a1a;
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+
+        header {
+            background-color: #333;
+            padding: 1em;
+            text-align: center;
+        }
+
+        h1 {
+            color: #f4f4f4;
+            margin-bottom: 0.5em;
+        }
+
+        main {
+            display: flex;
+            flex: 1;
+        }
+
+        nav {
+            background-color: #282828;
+            padding: 0.5em;
+            text-align: center;
+            width: 200px;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2); /* Add subtle box-shadow to the sidebar */
+        }
+
+        nav a {
+            color: #ffffff;
+            text-decoration: none;
+            padding: 1em;
+            margin: 0.5em 0;
+            display: block;
+            background-color: #333;
+            border-radius: 5px;
+            border: 1px solid #444;
+            transition: background-color 0.3s; /* Smooth transition for background color */
+        }
+
+        nav a:hover {
+            background-color: #444; /* Darken the background color on hover */
+        }
+
+        section {
+            padding: 2em;
+            flex: 1;
+        }
+
+        footer {
+            background-color: #333;
+            padding: 1em;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Elite Redux Wiki</h1>
+        <p>Your ultimate resource for Elite Redux Pokémon ROM hack</p>
+    </header>
+
+    <main>
+        <!-- Sidebar -->
+        <nav>
+            <a href="pages\test.html" >Topic 1</a>
+            <a href="#topic2">Topic 2</a>
+            <a href="#topic3">Topic 3</a>
+            <!-- Add more topics as needed -->
+        </nav>
+
+        <!-- Content Section -->
+        <section id="about">
+            <h2>About Elite Redux</h2>
+            <p>Elite Redux is an exciting Pokémon ROM hack that brings new adventures and challenges to the Pokémon universe. Explore new regions, encounter unique Pokémon, and embark on a thrilling journey.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Elite Redux.</p>
+    </footer>
+</body>
+</html>
